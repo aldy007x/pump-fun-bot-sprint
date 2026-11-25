@@ -23,7 +23,7 @@
 //   - otherwise, up to 3 probe buys of 0.02 SOL on launches that pass the
 //     rug filter but miss the size bar, sold on the next batch
 // Exit (full position, first trigger wins):
-//   - take profit +15%, stop loss -8% (against the filled entry price)
+//   - take profit +25%, stop loss -8% (against the filled entry price)
 //   - hold at most 10 slots from the buy decision
 //   - creator sells, or any single outside sell of 2 SOL or more
 
